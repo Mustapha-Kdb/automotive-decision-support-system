@@ -22,8 +22,8 @@ The project follows a rigorous BI decision-making workflow:
 
 ## 📂 Project Structure
 * `BI_car_buy_helper.ipynb`: Python implementation of the decision algorithms and data processing.
-* `donnees.csv`: Dataset containing technical specifications for various car models.
-* `Rapport_APP_BI_Data_Mining.pdf`: Full technical documentation (Part 3) covering the decision-making theory and results.
+* `data/`: Dataset containing technical specifications for various car models.
+* `documentation/Rapport_APP_BI_Data_Mining.pdf`: Full technical documentation (Part 3) covering the decision-making theory and results.
 
 ## ⚙️ Installation & Usage
 
